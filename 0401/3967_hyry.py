@@ -12,8 +12,6 @@ input = sys.stdin.readline
 
 '''
 
-# 생각해야 할 것 : 어떻게 찾으면 그대로 재귀를 끊어 내고 완전히 return 할 수 있을까?
-# if f(재귀): return 1
 
 def makeStar(depth):
     global madeStar
