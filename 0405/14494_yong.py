@@ -24,6 +24,6 @@ memo = [[0] * 1001 for _ in range(1001)]
 memo[1][1] = 1
 memo[1][2] = 1
 memo[2][1] = 1
-memo[2][2] = 3
+# memo[2][2] = 3
 n, m = map(int, input().split())
 print(func(n, m))
