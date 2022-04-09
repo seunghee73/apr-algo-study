@@ -22,7 +22,7 @@ while True:
             nx = x + d[0]
             ny = y + d[1]
             if -1 < ny < N and -1 < nx < M and not V[ny][nx]:
-                if MAP[ny][nx] == 0: # 공기 혹은 공기와 접촉된 칸 ST에 추가
+                if MAP[ny][nx] == 0: # 공기 ST에 추가
                     ST.append((nx, ny))
 
                 elif MAP[ny][nx] == 1: # 치즈가 있다면 그 칸의 치즈는 녹는다
