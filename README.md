@@ -47,3 +47,10 @@
   * 소스코드는 `{문제번호}_{닉네임}.확장자명`으로 작성한다.
 
 ## 진행 상황
+
+- 0401 [백준 3967. 매직스타](https://www.acmicpc.net/problem/3967) (구현 / 백트래킹)  
+- 0404 [백준 14606. 피자 (Small)](https://www.acmicpc.net/problem/14606) / 시간 제한 30분 (DP)
+- 0405 [백준 14494. 다이나믹이 뭐예요?](https://www.acmicpc.net/problem/14494) (DP)  
+- 0406 [백준 11055. 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) (DP)
+- 0407 [백준 11722. 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) (DP)
+- 0408 [백준 2636. 치즈](https://www.acmicpc.net/problem/2636) (구현 / 그래프)
