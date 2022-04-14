@@ -20,7 +20,7 @@ if flag:
     print(1)
     print(DP[-1])
 else:
-    if n % 2:
+    if n % 2: 
         print(1)
         print(DP[-1])
     else:
