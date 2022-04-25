@@ -2,7 +2,6 @@ import heapq
 import collections
 import sys
 input = sys.stdin.readline
-inf = sys.maxsize
 
 n, d = map(int, input().split())
 
