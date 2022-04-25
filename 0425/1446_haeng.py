@@ -3,7 +3,7 @@ road = [[] for _ in range(D+1)]
 for _ in range(N):
     a,b,c = map(int,input().split())
     if b > D:
-        continue    #역주행방지
+        continue
     road[a].append([b,c])
 
 
