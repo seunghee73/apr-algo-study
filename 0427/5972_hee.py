@@ -16,7 +16,7 @@ def dijkstra():
         for cost, n2 in G[n1]:
             if cost + D[n1] < D[n2]:
                 D[n2] = cost + D[n1]
-                heappush(Q, (D[n2], n2))
+                heappush(Q, (D[n2], n2)) 
     return D
 
 N, M = map(int, input().split())
