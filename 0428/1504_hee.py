@@ -33,4 +33,4 @@ v1, v2 = map(int, input().split())
 ans = min(dijkstra(1, v1) + dijkstra(v1, v2) + dijkstra(v2, N), dijkstra(1, v2) + dijkstra(v2, v1) + dijkstra(v1, N))
 print(ans) if ans < INF else print(-1)
 # 경로를 찾을 수 없는 ans == INF인 경우도 생기는데 (v1==1, v2==N)
-# 등호 처리 잘못해서 100%에서 틀렸습니다. 발생
+# 등호 처리 잘못하면 100%에서 틀렸습니다. 발생
