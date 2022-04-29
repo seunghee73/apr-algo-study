@@ -59,3 +59,35 @@
 - 0407 [백준 11722. 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) (DP)
 
 - 0408 [백준 2636. 치즈](https://www.acmicpc.net/problem/2636) (구현 / 그래프)
+
+- 0411 [백준 2193. 이친수](https://www.acmicpc.net/problem/2193)  / 시간 제한 30분 (DP)
+
+- 0412 [백준 15486. 퇴사2](https://www.acmicpc.net/problem/15486) (DP)
+
+- 0413 [백준 14430. 자원캐기](https://www.acmicpc.net/problem/14430) (DP)
+
+- 0414 [백준 1788. 피보나치 수의 확장](https://www.acmicpc.net/problem/1788) (DP)
+
+- 0415 [백준 2589. 보물섬](https://www.acmicpc.net/problem/2589) (구현)
+
+- 0418 [백준 18352. 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)  / 시간 제한 30분 (BFS / 다익스트라)
+
+- 0419 [백준 1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916) (다익스트라)
+
+- 0420 [백준 14496. 그대, 그머가 되어](https://www.acmicpc.net/problem/14496) (다익스트라)
+
+- 0421 [백준 17396. 백도어](https://www.acmicpc.net/problem/17396) (다익스트라)
+
+- 0422 [백준 1719. 택배](https://www.acmicpc.net/problem/1719) (다익스트라)
+
+- 0425 [백준 1446. 지름길](https://www.acmicpc.net/problem/1446)  / 시간 제한 30분 (다익스트라)
+
+- 0426 [백준 2665. 미로만들기](https://www.acmicpc.net/problem/2665) (다익스트라)
+
+- 0427 [백준 5972. 택배 배송](https://www.acmicpc.net/problem/5972) (다익스트라)
+
+- 0428 [백준 1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504) (다익스트라)
+
+- 0429 [백준 10282. 해킹](https://www.acmicpc.net/problem/10282) (다익스트라)
+
+  
